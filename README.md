@@ -17,3 +17,5 @@ The \*.ibpt file is a simple text file that can be opened with any text editor.
 
 Make changes per your requirements or per your test data before dragging it onto IsoBuster.
 This way you can easily expose hidden partitions, if you know (or found) where they are.
+
+![Screenshot - Export IBPT](Screenshots/Export.png)
