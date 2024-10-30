@@ -18,4 +18,10 @@ The \*.ibpt file is a simple text file that can be opened with any text editor.
 Make changes per your requirements or per your test data before dragging it onto IsoBuster.
 This way you can easily expose hidden partitions, if you know (or found) where they are.
 
+Example:
+```
+3894861824,12165120,0,Only interested in this partition,0,0,0,0,0,0,0
+```
+![Screenshot - After importing an IBPT](Screenshots/Imported.png)
+
 ![Screenshot - Export IBPT](Screenshots/Export.png)
