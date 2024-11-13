@@ -26,3 +26,5 @@ Example:
 ![Screenshot - After importing an IBPT](Screenshots/Imported.png)
 
 ![Screenshot - Export IBPT](Screenshots/Export.png)
+
+From IsoBuster 5.5 onwards it is also possible to link to the *.ibpt file from a [*.imlst file](https://github.com/Isobuster/imlst)
